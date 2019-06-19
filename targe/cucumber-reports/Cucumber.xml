@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="1" skipped="0" total="1">
+<suite duration-ms="42917" name="cucumber.runtime.formatter.TestNGFormatter">
+<test duration-ms="42917" name="cucumber.runtime.formatter.TestNGFormatter">
+<class name="Login Actions"/>
+<class name="Hotel Search"/>
+<class name="Hotel Selection">
+<test-method duration-ms="42917" finished-at="2019-06-19T19:36:32Z" name="Searched Hotel selection" started-at="2019-06-19T19:35:49Z" status="PASS"/>
+</class>
+</test>
+</suite>
+</testng-results>
